@@ -1,14 +1,6 @@
-<div style="display: flex; justify-content: center;">
-  <img src="./church_jesus_christ_simplified_symbol.png" style="height: 200px; width: 200px; margin-bottom: 1rem; border-radius: 1rem; box-shadow: 0 0.5rem 1rem #00000088"/>
-</div>
+![church logo](./church_jesus_christ_simplified_symbol.png)
 
-<div style="">
-	<p style="font-size: 24px; text-align: center; font-weight: bold;">
-		American Fork 30th Ward
-		<br/>
-		Weekly Sacrament Meeting Program
-	</p>
-</div>
+# American Fork 30th Ward Weekly Sacrament Meeting Program
 
 The weekly sacrament meeting program for the American Fork 30th Ward of the Church of Jesus Christ of Latter-day Saints.
 
